@@ -2,4 +2,4 @@
 
 ## Usage
 
-Follow our [guidelines]('').
+Follow our [guidelines](Digital%20Brand%20Guidelines/muuu_digital_brand_guidelines.pdf).
